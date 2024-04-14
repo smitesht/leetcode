@@ -18,3 +18,5 @@ Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
 ```
+
+![image](https://github.com/smitesht/leetcode/assets/52151346/ff4b4ddb-62c5-4b23-9cce-363c07f277f6)
