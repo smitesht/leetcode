@@ -27,3 +27,20 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ```
 
 # Answer
+
+```cpp
+int removeElement(vector<int>& nums, int val)
+{
+    int count = 0;
+    for (int j = count; j < nums.size(); j++)
+    {
+        if (nums[j] != val)
+        {
+            nums[count] = nums[j];
+            count++;
+        }
+    }
+
+    return count;
+}
+```
