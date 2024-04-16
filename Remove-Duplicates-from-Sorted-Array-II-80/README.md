@@ -36,6 +36,9 @@ Constraints:
 
 Answer:
 
+![image](https://github.com/smitesht/leetcode/assets/52151346/1b8e79d8-a9a0-494d-98a4-9e1ef80aa99a)
+
+
 ```cpp
 
 int removeDuplicates(vector<int>& nums)
