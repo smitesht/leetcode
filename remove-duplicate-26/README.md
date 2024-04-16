@@ -33,6 +33,11 @@ Constraints:
 
 ## Answer
 
+Logic:
+
+![image](https://github.com/smitesht/leetcode/assets/52151346/92869916-f4c7-410d-901c-d58f274e16c2)
+
+
 Code:
 
 ```cpp
