@@ -37,6 +37,9 @@ Explanation: There is no way to make a positive profit, so we never buy the stoc
 
 # Answer
 
+![image](https://github.com/smitesht/leetcode/assets/52151346/0f53f239-4833-4db4-a654-69bad034db07)
+
+
 ```cpp
 
 int maxProfit(vector<int>& prices)
